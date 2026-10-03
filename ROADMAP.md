@@ -4,7 +4,7 @@ A concept is **done** when: Obsidian note with formula · 3-5 problems solved ·
 
 ## Week 1 action plan
 - [x] Session 1: repo, folder structure, Python env, `.gitignore`, ROADMAP, CLAUDE.md
-- [ ] Session 1: Obsidian installed, vault opened on `notes/`; private GitHub repo `quant-lab` pushed
+- [x] Session 1: Obsidian installed (vault: `notes/Quant-Lab/`); private GitHub repo `quant-lab` pushed
 - [ ] Session 2: Stat 110 Lecture 1
 - [ ] Session 2: Chan "Quantitative Trading" Ch. 1
 - [ ] Session 2: NotebookLM notebook "Module 1: Returns & Risk"
